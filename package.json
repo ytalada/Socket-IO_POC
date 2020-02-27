@@ -20,7 +20,7 @@
   "author": "yadagiri_talada@refinitiv.com",
   "license": "",
   "dependencies": {
-    "express": "3.4.4",
+    "express": "4.17.1",
     "socket.io": "2.2.0"
   }
 }
