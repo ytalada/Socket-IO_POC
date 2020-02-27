@@ -1,0 +1,1 @@
+"C:\\Program Files\\Internet Explorer\\iexplore.exe" "https://amers1.views.cp.icp2.mpp.reutest.com/TRS/ClickOnce/EikonAppEngine/EikonAppEngine.application?a=true&d=1.0.9.1,%~dp0"

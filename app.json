@@ -1,0 +1,37 @@
+{
+  "name": "LPT-Library-WebSocket-POC",
+  "description": "Next-Generation Microsoft Office Interactive Templates",
+  "version": "0.0.1",
+  "defaultPlatform": "NodeJS",
+  "displayName": "Next-Generation Microsoft Office Interactive Templates",
+  "defaultPage": "index.html",
+  "configurations": {
+    "globalText": "Next-Generation Microsoft Office Interactive Templates"
+  },
+  "datacenter_configurations": {
+    "dev": {
+      "endpoint": "https://amers1.msf2.cp.icp2.mpp.ime.reuters.com"
+    },
+    "alpha": {
+      "endpoint": "https://amers1.msf2.cp.icp2.mpp.ime.reuters.com"
+    },
+    "ppe1": {
+      "endpoint": "https://apps.cp.reutest.com"
+    },
+    "ppe2": {
+      "endpoint": "https://apps.cp.reutest.com"
+    },
+    "hdcp": {
+      "endpoint": "https://amers2.msf2.cp.ime.reuters.com"
+    },
+    "stcp": {
+      "endpoint": "https://apac1.msf2.cp.ime.reuters.com"
+    },
+    "dtcp": {
+      "endpoint": "https://emea1.msf2.cp.ime.reuters.com"
+    },
+    "ntcp": {
+      "endpoint": "https://amers1.msf2.cp.ime.reuters.com"
+    }
+  }
+}
